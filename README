@@ -1,0 +1,6 @@
+To use this
+
+git clone --recursive http://www.github.com/0x01/emacs .emacs.d
+
+
+
