@@ -1,0 +1,9 @@
+[submodule "vendor/magit"]
+	path = vendor/magit
+	url = git://github.com/magit/magit
+[submodule "vendor/gist.el"]
+	path = vendor/gist.el
+	url = git://github.com/defunkt/gist.el
+[submodule "vendor/proofgeneral"]
+	path = vendor/proofgeneral
+	url = git://github.com/emacsmirror/proofgeneral.git
